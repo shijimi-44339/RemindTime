@@ -1,4 +1,4 @@
 シンプルなAndroid向けリマインダーアプリ
 
--ダウンロード
+-APKをダウンロード
 https://github.com/shijimi-44339/RemindTime/releases
