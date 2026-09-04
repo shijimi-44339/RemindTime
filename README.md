@@ -1,1 +1,1 @@
-Android reminder app.
+シンプルなAndroid向けリマインダーアプリです。
